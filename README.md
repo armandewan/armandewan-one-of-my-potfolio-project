@@ -2,8 +2,8 @@
 
 Welcome to my **personal portfolio**! 🚀 This is where I showcase my skills, projects, and professional journey as a **Full Stack Developer**.  
 
-## 🔥 Live Demo  
-🔗 [Visit My Portfolio]()  
+## 🔥 Live Link 
+🔗 [Visit My Portfolio](https://armandewan.onrender.com/)  
 
 ---
 
@@ -38,8 +38,7 @@ Hi, I'm **Md Arman**, a passionate **Full Stack Developer** with expertise in **
 
 ### **2️⃣ Portfolio Website**  
 🌐 A personal portfolio showcasing my work and skills.  
-🔗 **Live:** [View Project]()  
-📂 **GitHub Repo:** [Portfolio Code]()
+🔗 **Live:** [View Project](https://armandewan.onrender.com/)  
 
 ---
 
